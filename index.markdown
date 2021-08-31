@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: UWI Physics Level II Laboratory Simulations
 ---
 
 # Electronics Simulations
