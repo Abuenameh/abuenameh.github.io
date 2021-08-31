@@ -15,4 +15,4 @@ This web app was forked from Renato Böhler's **[logossim](https://github.com/re
 - Addition of the ability to rotate components.
 - Addition of JK, D, and T flip-flops.
 
-The web app is available at <https://abuenameh.github.io/logossim/>.
+The app is a work-in-progress, so there may be some bugs. Please save fairly often to help mitigate against that. The web app is available at <https://abuenameh.github.io/logossim/>.
