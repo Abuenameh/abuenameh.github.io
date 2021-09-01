@@ -14,5 +14,6 @@ The following web apps can be used for electronics labs. Currently, there is onl
 This web app was forked from Renato Böhler's **[logossim](https://github.com/renato-bohler/logossim){:target="_blank"}** and has been edited in the following ways:
 - Addition of the ability to rotate components.
 - Addition of JK, D, and T flip-flops.
+- Addition of the ability to record the signal at any points in the circuit.
 
 The app is a work-in-progress, so there may be some bugs. Please save fairly often to help mitigate against that. The web app is available at <https://abuenameh.github.io/logossim/>.
