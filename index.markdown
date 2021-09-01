@@ -16,4 +16,5 @@ This web app was forked from Renato Böhler's **[logossim](https://github.com/re
 - Addition of JK, D, and T flip-flops.
 - Addition of the ability to record the signal at any points in the circuit.
 
-The app is a work-in-progress, so there may be some bugs. Please save fairly often to help mitigate against that. The web app is available at <https://abuenameh.github.io/logossim/>.
+The app is a work-in-progress, so there may be some bugs. Please save fairly often to help mitigate against that. To open the web app, click **[here](https://abuenameh.github.io/logossim/){:target="_blank"}**.
+
