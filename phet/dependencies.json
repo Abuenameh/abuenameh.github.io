@@ -1,0 +1,91 @@
+{
+  "comment": "# masses-and-springs 1.1.0-dev.1 Wed Sep 14 2022 10:30:32 GMT-0400 (Atlantic Standard Time)",
+  "assert": {
+    "sha": "c13a8c7741d95fbd8e37619c66ebcca8686dffe7",
+    "branch": "master"
+  },
+  "axon": {
+    "sha": "491710c1439cb89da920b1d3de0aa0d0a0e0f782",
+    "branch": "master"
+  },
+  "brand": {
+    "sha": "41e8e8ed4cefda6d8a287b000b1303aa64cc0aff",
+    "branch": "master"
+  },
+  "chipper": {
+    "sha": "8f1e366d41e82a6b3fcaaf1a5886d9b9a6b38c0f",
+    "branch": "master"
+  },
+  "dot": {
+    "sha": "c376090b17314d92fc1356c4321129840586a34f",
+    "branch": "master"
+  },
+  "griddle": {
+    "sha": "9ea46d86b574efc4501ac59384ae28804dc827ca",
+    "branch": "master"
+  },
+  "joist": {
+    "sha": "b4dcd697d6e9da35254485a4eadec8fbd95d9f00",
+    "branch": "master"
+  },
+  "kite": {
+    "sha": "579da4372f2e147593bdfd0ed8f359fe8c9eaeae",
+    "branch": "master"
+  },
+  "masses-and-springs": {
+    "sha": "5942e89ea7efe2e23f65d7ef1fde5b5e8524f7f5",
+    "branch": "master"
+  },
+  "perennial-alias": {
+    "sha": "a0650ba7d018de41ce25329baf5ec70de289b527",
+    "branch": "master"
+  },
+  "phet-core": {
+    "sha": "b430b4d2fbebe0ee7bbc4667404431f17ba495dd",
+    "branch": "master"
+  },
+  "phetcommon": {
+    "sha": "dc3bb5750238e003d1204034f7593333e4a27b44",
+    "branch": "master"
+  },
+  "phetmarks": {
+    "sha": "922d1251b4628a79114d9f4fb57c6f156d3c1127",
+    "branch": "master"
+  },
+  "query-string-machine": {
+    "sha": "fad9c77b878f6928bac4f772651da608a2965470",
+    "branch": "master"
+  },
+  "scenery": {
+    "sha": "f747517b219efd3da0e73a47f6b76f0061c4eee9",
+    "branch": "master"
+  },
+  "scenery-phet": {
+    "sha": "3404468c4e608a3e5165644433cc49749c977c9f",
+    "branch": "master"
+  },
+  "sherpa": {
+    "sha": "5595971a4c970fb32e5254132fc7f3b79e955902",
+    "branch": "master"
+  },
+  "sun": {
+    "sha": "87110bdf8baaff142433170e56983a856406d3a3",
+    "branch": "master"
+  },
+  "tambo": {
+    "sha": "730f6123bc245bb956ebd370e0b0b65f8876fa05",
+    "branch": "master"
+  },
+  "tandem": {
+    "sha": "8c1735c561996f8e7ca237477baacf234587733c",
+    "branch": "master"
+  },
+  "twixt": {
+    "sha": "ebb166adecb90b4eaa30eb75b9949948e7272b3a",
+    "branch": "master"
+  },
+  "utterance-queue": {
+    "sha": "dc4a030fb24249c992f3281caea846c572135398",
+    "branch": "master"
+  }
+}
